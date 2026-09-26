@@ -19,7 +19,7 @@ state is kept in the private repository `data-analytics-uts-archive`.
 
 - [x] Add the MIT license
 - [x] Credit the datasets (UCI, Gaia)
-- [ ] Rewrite the history: old email addresses to `nicolas.huber.dev@gmail.com`, removed UTS material out of all
+- [x] Rewrite the history: old email addresses to `nicolas.huber.dev@gmail.com`, removed UTS material out of all
       commits
 - [ ] Force-push `main`
 - [ ] Set the GitHub description and topics
